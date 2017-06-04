@@ -1,5 +1,5 @@
 volume-proxy-template:
-  image: 'eyc3/volume-proxy-template:1.0'
+  image: 'eyc3/volume-proxy-template'
   command: echo "nginx proxy template volume"
   autoredeploy: false
 
