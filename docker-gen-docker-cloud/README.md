@@ -5,7 +5,7 @@ for [Docker Cloud](https://cloud.docker.com).
 
 This image is used in context of [this](https://blog.switchbit.io/developing-a-ghost-theme-with-gulp-part-5/) 
 post on using [JrCs/docker-letsencrypt-nginx-proxy-companion](https://github.com/JrCs/docker-letsencrypt-nginx-proxy-companion)
-to generate Let's Encrypt certificates for a Ghost specific stack. 
+to generate Let's Encrypt certificates for a Docker Cloud stack. 
 
 # The problem
 
