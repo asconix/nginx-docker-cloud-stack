@@ -1,4 +1,4 @@
-# Ghost Nginx Proxy Template
+# Nginx Proxy Template
 
 This Nginx configuration template is an EY-specific template meant to be used
 in conjunction with [jwilder/docker-gen](https://github.com/jwilder/docker-gen)
